@@ -1,4 +1,4 @@
-<img src="me.gif" width="600">
+<img src="me.gif" width="650">
 
 #### Hey! 👋
 
@@ -12,6 +12,3 @@ You can also check my CV and visit some of my other pages:
 - [CV](http://dmitryplaunov.com/Next%20best%20hire.%20Dmitry%20Plaunov.pdf)
 - [Personal website](https://dmitryplaunov.com/)
 - [LinkedIn](https://www.linkedin.com/in/dmitryplaunov/)
-
-
-#### 🤙
